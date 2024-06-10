@@ -1,4 +1,4 @@
-# Petshop Gatinho
+# Petshop Gatito
 Painel no Power BI
 
 Projeto em Power BI para criação de Painel de Negócios para o Pet Shop Gatito.
